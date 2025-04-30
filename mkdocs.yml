@@ -1,0 +1,24 @@
+site_name: Chronos
+theme:
+  name: 'material'
+  palette:
+    primary: 'purple'
+    accent: 'deep-purple'
+  features:
+    - navigation.instant
+    - navigation.sections
+    - content.code.copy
+    - content.action.edit
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - codehilite
+  - admonition
+
+extra_css:
+  - assets/css/extra.css

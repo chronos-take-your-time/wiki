@@ -1,0 +1,3 @@
+# Introdução
+
+Chronos é um software de colaboração no fluxo criativo, sendo uma ferramenta que possibilita a criação de quadros interativos com conteúdo textual e gráfico de desenho com auxílio de inteligência artificial. Plataformas como Notion, Miro e Obsidian oferecem funcionalidades semelhantes, mas o Chronos se diferencia ao priorizar uma experiência mais simples e fluida. Com uma interface intuitiva e centrada na tarefa, ele acompanha a tendência da Inteligência Artificial para ajudar a organização de ideias, garantindo que os usuários possam focar no que realmente importa: transformar pensamentos em projetos de forma ágil e eficiente.
