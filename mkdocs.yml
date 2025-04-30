@@ -1,9 +1,22 @@
 site_name: Chronos
 theme:
   name: 'material'
+  logo: 'assets/images/logo.png'
+  favicon: 'assets/images/favicon.png'
   palette:
-    primary: 'purple'
-    accent: 'deep-purple'
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.sections
@@ -22,3 +35,7 @@ markdown_extensions:
 
 extra_css:
   - assets/css/extra.css
+
+extra_javascript:
+  - 'https://cdn.jsdelivr.net/npm/@material/mwc-switch@0.22.0/mwc-switch.min.js'
+  - 'assets/js/theme-toggle.js'
