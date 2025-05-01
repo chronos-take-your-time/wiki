@@ -2,6 +2,9 @@ site_name: Chronos
 
 theme:
   name: 'material'
+  font:
+    text: Roboto
+    code: Roboto Mono
   logo: 'assets/images/logo.png'
   favicon: 'assets/images/favicon.png'
   palette:
