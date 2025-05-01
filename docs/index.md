@@ -4,4 +4,4 @@ Bem-vindo à wiki do Chronos, projeto de TCC desenvolvido na **Escola Técnica E
 
 ---
 
-Confira nossa página no [**GitHub**](https://github.com/Chronos-Take-your-time).
+Confira nossa página no <a href="https://github.com/Chronos-Take-your-time" target="_blank">GitHub</a>
