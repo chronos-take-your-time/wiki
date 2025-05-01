@@ -18,3 +18,5 @@ Este é um conjunto simples de regras para a criação de um histórico de commi
 - `refactor`: refatoração sem alteração de funcionalidade
 - `test`: testes automatizados
 - `chore`: tarefas que não afetam o código de produção
+
+<a href="https://www.conventionalcommits.org/pt-br/v1.0.0/" target="_blank">Documetação do Conventional Commits</a>
