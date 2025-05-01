@@ -42,7 +42,7 @@ extra:
       link: mailto:chronosdev@proton.me
 
 extra_css:
-  - assets/css/extra.css
+  - assets/stylesheets/extra.css
 
 extra_javascript:
   - 'https://cdn.jsdelivr.net/npm/@material/mwc-switch@0.22.0/mwc-switch.min.js'
