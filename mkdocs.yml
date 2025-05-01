@@ -34,6 +34,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Chronos-Take-your-time
       name: GitHub
+    - icon: material/email
+      name: chronosdev@proton.me
+      link: mailto:chronosdev@proton.me
 
 extra_css:
   - assets/css/extra.css
