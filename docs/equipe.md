@@ -4,15 +4,14 @@ No ano de 2025 estamos concluindo nosso curso de Desenvolvimento de Sistemas int
 
 ---
 
-## Joaquim Trovatti
-**Instagram:** [@jobisqueen](https://www.instagram.com/jobisqueen/)  
-**GitHub:** [@Jobisquim](https://github.com/Jobisquim)
+## Joaquim Trovatti  
+**Instagram:** <a href="https://www.instagram.com/jobisqueen/" target="_blank">@jobisqueen</a>  
+**GitHub:** <a href="https://github.com/Jobisquim" target="_blank">@Jobisquim</a>  
 
 ## Luis Henrique  
-**Instagram:** [@jl.hso_](https://www.instagram.com/l.hso_/)  
-**GitHub:** [@L-hso](https://github.com/L-hso)
+**Instagram:** <a href="https://www.instagram.com/l.hso_/" target="_blank">@jl.hso_</a>  
+**GitHub:** <a href="https://github.com/L-hso" target="_blank">@L-hso</a>  
 
-
-## Pedro Henrique 
-**Instagram:** [@pedr0808](https://www.instagram.com/pedr0808/)  
-**GitHub:** [@nukhes](https://github.com/nukhes)
+## Pedro Henrique  
+**Instagram:** <a href="https://www.instagram.com/pedr0808/" target="_blank">@pedr0808</a>  
+**GitHub:** <a href="https://github.com/nukhes" target="_blank">@nukhes</a>  
