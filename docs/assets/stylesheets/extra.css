@@ -14,3 +14,14 @@
 .md-tabs {
   background-color: #080812 !important; 
 }
+
+/* estilo para imagens dentro da documentação */
+p img {
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+  max-width: 100%;
+  border-radius: .25rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
