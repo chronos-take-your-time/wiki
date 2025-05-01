@@ -57,3 +57,5 @@ markdown_extensions:
   - tables
   - codehilite
   - admonition
+
+edit_uri_template: 'wiki/edit/main/docs/{path}'
