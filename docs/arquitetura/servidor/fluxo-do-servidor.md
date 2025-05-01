@@ -1,1 +1,3 @@
 # Fluxo do servidor e organização
+
+Este servidor contém trabalhos que rodam em paralelo...

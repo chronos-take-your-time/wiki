@@ -1,6 +1,6 @@
 # Cliente Desktop
 
-A [aplicação cliente](cliente.md) será entregue como um aplicativo desktop multiplataforma construído com <a href="https://tauri.app/" target="_blank">Tauri</a>, utilizando a integração entre tecnologias web e sistemas nativos.
+A [aplicação cliente](cliente.md) é um aplicativo desktop multiplataforma construído com <a href="https://tauri.app/" target="_blank">Tauri</a>, utilizando a integração entre tecnologias web e sistemas nativos.
 
 | Tecnologia                              | Função                                                                 |
 |-----------------------------------------|------------------------------------------------------------------------|
@@ -12,4 +12,5 @@ A [aplicação cliente](cliente.md) será entregue como um aplicativo desktop mu
 | <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>    | Framework utilitário para estilização com CSS |
 
 ## Estrutura da Aplicação
+
 **TODO:** completar esta seção com uma explanação de como a aplicação vai ser estruturada no nível de código e como vai se comunicar com o [server](server.md).

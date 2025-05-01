@@ -1,6 +1,6 @@
 # Servidor
 
-O servidor será construído com foco em leveza e reprodutibilidade, utilizando containers orquestrados via <a href="https://docs.docker.com/compose/" target="_blank">docker-compose</a> para garantir o mesmo comportamento em qualquer ambiente Linux, além de volumes para persistência de dados.
+O servidor é construído com foco em leveza e reprodutibilidade, utilizando containers orquestrados via <a href="https://docs.docker.com/compose/" target="_blank">docker-compose</a> para garantir o mesmo comportamento em qualquer ambiente Linux, além de volumes para persistência de dados.
 
 | Tecnologia                              | Função                                                                 |
 |-----------------------------------------|------------------------------------------------------------------------|
