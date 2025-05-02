@@ -9,7 +9,7 @@ No ano de 2025 estamos concluindo nosso curso de Desenvolvimento de Sistemas int
 **GitHub:** <a href="https://github.com/Jobisquim" target="_blank">@Jobisquim</a>  
 
 ## Luis Henrique  
-**Instagram:** <a href="https://www.instagram.com/l.hso_/" target="_blank">@jl.hso_</a>  
+**Instagram:** <a href="https://www.instagram.com/l.hso_/" target="_blank">@l.hso_</a>  
 **GitHub:** <a href="https://github.com/L-hso" target="_blank">@L-hso</a>  
 
 ## Pedro Henrique  
