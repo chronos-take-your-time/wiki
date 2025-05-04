@@ -8,4 +8,4 @@ Os dados terão seu fluxo baseado no seguinte sistema de rotas, do qual permitir
 
 As rotas terão o acesso mediado conforme determinado na seção [Autenticação de criação de contas e segurança](autenticação-e-contas.md).
 
-**TODO**: Inserir a imagem completa com todas as rotas.
+![Rotas do servidor]("../../assets/images/rotas.jpg")
