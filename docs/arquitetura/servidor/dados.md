@@ -1,7 +1,6 @@
 # Armazenamento dos quadros
-Os quadros são armazenados em um sistema simples de caminhos no volume criado pelo Docker, representaremos este volume como o caminho absoluto `\` (root).
 
-Os times são armazenados em `\teams\id`, onde `id` é um diretório nomeado com base no id do time no [banco de dados](banco-de-dados.md), dentro deste diretório serão criados os quadros, que essencialmente são arquivos <a href="https://pt.wikipedia.org/wiki/JSON" target="_blank">JSON</a> estruturados.
+Com os identificadores de usuário e organizações (times) do Clerk o armazenamento dos quadros será estruturado em diretórios dentro de um volume Docker, os times são armazenados em `\teams\id`, onde `id` é um diretório nomeado com base no id do time, dentro deles serão criados os quadros, que essencialmente são arquivos <a href="https://pt.wikipedia.org/wiki/JSON" target="_blank">JSON</a> estruturados.
 
 ```
 \teams
@@ -13,5 +12,4 @@ Os times são armazenados em `\teams\id`, onde `id` é um diretório nomeado com
     ├── 1.json
     ├── 2.json
     └── 3.json
-
 ```

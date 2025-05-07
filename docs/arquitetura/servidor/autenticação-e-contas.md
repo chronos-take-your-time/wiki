@@ -1,12 +1,13 @@
 # Autenticação e sistema de contas
 
-## Criação do Usuário
+## Infraestrutura
 
-TODO
+A criação e autenticação de usuários no Chronos é gerenciada pelo [Clerk](https://clerk.com/), ele é responsável por todo o processo de login, registro e controle de sessões. O fluxo de criação ocorre com o usuário acessando a interface de cadastro (email/senha ou OAuth com Google). Algumas das atribuições ao Clerk são:
 
-## Autenticação
-
-TODO
+- Dados pessoais: id, first_name, last_name, email_addresses, username, image_url
+- Métodos de login (senha, OAuth, magic link, etc.)
+- Organizações (times) e seus níveis de provilégio
+- Sessão
 
 ## Níveis de Privilégios
 
