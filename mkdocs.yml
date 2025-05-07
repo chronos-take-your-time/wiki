@@ -57,5 +57,7 @@ markdown_extensions:
   - tables
   - codehilite
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 edit_uri_template: 'wiki/edit/main/docs/{path}'
