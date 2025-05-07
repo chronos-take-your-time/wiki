@@ -5,4 +5,4 @@ Chronos é um software de colaboração no fluxo criativo, sendo uma ferramenta 
 ## Projeto no Figma
 
 Temos um projeto no Figma que organiza e define a estrutura do nosso design de experiência do usuário (UX), oferecendo uma visão intuitiva da aplicação. O Figma é uma ferramenta de design ideal para criar interfaces de usuário (UI) e protótipos interativos,
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/5f2JgF49JLyTL8TLav6zJt/Chronos---Prot%C3%B3tipo?node-id=41-5&p=f&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A5&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://embed.figma.com/proto/5f2JgF49JLyTL8TLav6zJt/Chronos---Prot%C3%B3tipo?node-id=41-5&p=f&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A5&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
