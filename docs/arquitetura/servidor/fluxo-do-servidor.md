@@ -1,3 +1,11 @@
 # Fluxo do servidor e organização
 
-Este servidor contém trabalhos que rodam em paralelo...
+## Comunicação entre servidor e cliente
+Para que o servidor possa suportar a interação em tempo real e ao mesmo tempo o modelo de requisição-resposta serão utilizados dois protocolos: websocket e TCP/IP.
+
+## Rotas
+Os dados terão seu fluxo baseado no seguinte sistema de rotas, do qual permitirá um bom gerenciamento e distribuição deles tanto no servidor quanto no cliente. 
+
+As rotas terão o acesso mediado conforme determinado na seção [Autenticação de criação de contas e segurança](autenticação-e-contas.md).
+
+![Rotas do servidor](../../assets/images/rotas.jpg)
