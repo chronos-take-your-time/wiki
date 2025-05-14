@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&display=swap');
+* {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.md-content {
+  text-align: justify;
+}
+
+/* cor customizada na barra de navegação */
+.md-header,
+.md-tabs {
+  background-color: #080812 !important; 
+}
+
+/* estilo para imagens e iframes dentro da documentação */
+p img, iframe {
+  border: 0;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+  max-width: 100%;
+  border-radius: .25rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
