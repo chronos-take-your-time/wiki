@@ -6,5 +6,5 @@ O servidor é construído com foco em leveza e reprodutibilidade, utilizando con
 |--------------------------------------------------------------------|------------------------------------------------------|
 | <a href="https://www.docker.com/" target="_blank">Docker</a>       | Orquestração de containers                           |
 | <a href="https://nodejs.org/en/" target="_blank">Node.js</a>       | Backend da aplicação e gerenciamento de lógica       |
-| <a href="https://socket.io/docs/v4/" target="_blank">socket.io</a> | Comunicação WebSocket bidirecional com o cliente     |
+| <a href="https://socket.io/docs/v4/" target="_blank">Tldraw</a>    | Biblioteca para a construção dos quadros             |
 | <a href="https://clerk.com/" target="_blank">Clerk</a>             | Solução de autenticação e gerenciamento de usuários. |
