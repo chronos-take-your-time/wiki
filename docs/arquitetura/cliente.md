@@ -10,7 +10,3 @@ A [aplicação cliente](cliente.md) é um aplicativo desktop multiplataforma con
 | <a href="https://reactjs.org/" target="_blank">React</a>           | Interface do usuário com componentes reativos |
 | <a href="https://socket.io/docs/v4/" target="_blank">socket.io</a> | Comunicação em tempo real com o servidor |
 | <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>    | Framework utilitário para estilização com CSS |
-
-## Estrutura da Aplicação
-
-**TODO:** completar esta seção com uma explanação de como a aplicação vai ser estruturada no nível de código e como vai se comunicar com o [server](server.md).
