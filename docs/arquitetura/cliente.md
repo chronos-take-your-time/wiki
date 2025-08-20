@@ -1,6 +1,6 @@
 # Cliente Desktop
 
-A [aplicação cliente](cliente.md) é um aplicativo desktop multiplataforma construído com <a href="https://tauri.app/" target="_blank">Tauri</a>, utilizando a integração entre tecnologias web e sistemas nativos.
+A aplicação cliente é um aplicativo desktop multiplataforma construído com <a href="https://tauri.app/" target="_blank">Tauri</a>, utilizando a integração entre tecnologias web e sistemas nativos.
 
 | Tecnologia                              | Função                                                                 |
 |-----------------------------------------|------------------------------------------------------------------------|
