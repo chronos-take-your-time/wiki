@@ -1,6 +1,6 @@
 # Equipe
 
-No ano de 2025 estamos concluindo nosso curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na **Escola Técnica Estadual Professora Anna de Oliveira Ferraz**, este é o nosso TCC (Trabalho de Conclusão de Curso).
+No ano de 2025 concluímos nosso curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na **Escola Técnica Estadual Professora Anna de Oliveira Ferraz**, este é o nosso TCC (Trabalho de Conclusão de Curso).
 
 ---
 
