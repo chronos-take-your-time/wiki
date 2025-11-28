@@ -9,7 +9,7 @@ A criação e autenticação de usuários no Chronos é gerenciada pelo [Clerk](
 - Organizações (times) e seus níveis de provilégio
 - Sessão
 
-## Níveis de Privilégios
+## Níveis de Privilégios (não implementado)
 
 Para gerenciar os níveis de privilégio e permissões nas equipes do Chronos cada usuário tem um nível de privilégio, determinado pelo Owner da equipe, este é um tipo especial de usuário determinado no momento de criação da equipe, ele é o único que pode apagar a equipe e modificar o nível de qualquer outro membro exceto a si mesmo, cada nível será salvo no banco de dados como um número inteiro.
 
