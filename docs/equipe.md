@@ -13,5 +13,5 @@ No ano de 2025 concluímos nosso curso de Desenvolvimento de Sistemas integrado 
 **GitHub:** <a href="https://github.com/L-hso" target="_blank">@L-hso</a>  
 
 ## Pedro Henrique  
-**Instagram:** <a href="https://www.instagram.com/pedr0808/" target="_blank">@pedr0808</a>  
+**Instagram:** <a href="https://www.instagram.com/pedr0808/" target="_blank">@og.henriquealves</a>  
 **GitHub:** <a href="https://github.com/nukhes" target="_blank">@nukhes</a>  
